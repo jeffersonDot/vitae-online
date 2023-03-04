@@ -1,10 +1,5 @@
-# CV Responsivo - Live DIO - Trabalhando com responsividade na prática
+# Curiculum Online Responsivo
 
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/theleoad.svg?style=social&label=%20%40theleoad)](https://twitter.com/theleoad)
-
-Esse repositório foi criado para a Live do Bootcamp Impulso React Web Developer da Digital Innovation One.
-
-![AnVIL Image](./img/readme-bootcamp-image.png 'Bootcamp Impulso React Web Developer')
 
 ---
 
