@@ -1,8 +1,6 @@
 # Curiculum Online Responsivo
 
 
-![AnVIL Image]
-
 ---
 
 # Ferramentas utilizadas
