@@ -1,7 +1,7 @@
 # Curiculum Online Responsivo
 
 
-![AnVIL Image](./img/readme-bootcamp-image.png 'Bootcamp Impulso React Web Developer')
+![AnVIL Image]
 
 ---
 
