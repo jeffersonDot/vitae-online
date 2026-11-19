@@ -25,6 +25,11 @@ main {
 aside {
   background: #e9ebec;
   padding: 50px 0 16px;
+  align-self: flex-start;
+  height: 100vh;
+  overflow-y: auto;
+  position: sticky;
+  top: 0;
   width: 280px;
 }
 
@@ -32,8 +37,6 @@ aside {
   align-items: center;
   display: flex;
   flex-direction: column;
-  position: sticky;
-  top: 16px;
   width: 100%;
 }
 
@@ -315,6 +318,12 @@ article:not(:last-of-type) {
   aside,
   section {
     width: 100%;
+  }
+
+  aside {
+    align-self: auto;
+    height: auto;
+    position: static;
   }
 
   section {
